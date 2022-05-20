@@ -1,0 +1,9 @@
+### Module positions - created on 2022-05-02 10:06
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 262.302mm, Pcb Width 344.834mm [based on Edge bounding box]
+## Side : bottom
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J2            OLED                OLED_4Pin_SSD1306             205.0000   -136.5000  208.8100   -136.5000   180.0    bottom    THD
+## End
