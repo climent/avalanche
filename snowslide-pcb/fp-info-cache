@@ -1,4 +1,4 @@
-19764060271698
+21418415998964
 footprints
 CherryMX_Hotswap
 
@@ -68,6 +68,13 @@ YS-SK6812MINI-E
 
 0
 4
+4
+footprints
+YS-SK6812MINI-E_vias
+
+
+0
+7
 4
 footprints
 spacer_m2
